@@ -12,4 +12,6 @@ they were meatballs but I knew they were rocks.
 
 (PN) I was born into a gaggle of geese.
 
-(P2) My favorite food is smoothies.
+(P2) My favorite food is smoothies...
+
+(P1) My favorite food is spaghetti.
