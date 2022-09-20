@@ -12,4 +12,10 @@ they were meatballs but I knew they were rocks.
 
 (PN) I was born into a gaggle of geese.
 
+(P2) My favorite food is smoothies.
+
+(P1) One time I was hunting with my Dad.  He told me the best 
+way to kill rats was to hit in the head with a lead pipe.  Truer
+words have never been spoken.
+
 (P3) My favorite food is bacon.
